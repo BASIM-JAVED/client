@@ -1,0 +1,16 @@
+body {
+    background: #5a5959;
+    background: -webkit-linear-gradient(to right, #190A05, #870000);
+    background: linear-gradient(to right, #190A05, #870000);
+}
+
+#dashboard h1 {
+    color: #ccc;
+    text-align: center;
+    border: 2px dashed #ccc;
+    margin-top: 0;
+    padding: 10px;
+}
+.button{
+    text-align: right;
+}
